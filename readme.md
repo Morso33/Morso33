@@ -4,15 +4,15 @@
 
 -C++: Intermediate  
 -Usermode C: Intermediate  
--Kernelmode C: Novice  
+-Kernelmode C: Beginner  
 -C#: Intermediate  
 -Python: Intermediate  
 -SQL(MySQL): Intermediate  
 
--PHP: Novice  
--Golang: Novice  
--Ruby: Novice  
--Java: Novice  
+-PHP: Beginner  
+-Golang: Beginner  
+-Ruby: Beginner  
+-Java: Beginner  
 
 ### Operating Systems  
 
@@ -22,4 +22,4 @@
 
 ### Hardware  
 
--Strong understanding on computer fundamentals. I have built multiple desktop computers over the last four years.  
+-Strong understanding on computer hardware and software.
