@@ -3,8 +3,7 @@
 -JavaScript (NodeJS, vanilla): Fluent  
 
 -C++: Intermediate  
--Usermode C: Intermediate  
--Kernelmode C: Beginner  
+-C: Intermediate  
 -C#: Intermediate  
 -Python: Intermediate  
 -SQL(MySQL): Intermediate  
