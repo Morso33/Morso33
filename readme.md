@@ -14,7 +14,7 @@
 -Java: Beginner  
 
 ### Frameworks
-Express.JS
+Express.JS 
 jQuery
 
 ### Operating Systems  
