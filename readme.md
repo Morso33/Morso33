@@ -15,7 +15,6 @@
 
 ### Frameworks
 Express.JS  
-jQuery
 
 ### Operating Systems  
 
