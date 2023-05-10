@@ -8,10 +8,7 @@
 -Python: Intermediate  
 -SQL(MySQL): Intermediate  
 
--PHP: Beginner  
--Golang: Beginner  
--Ruby: Beginner  
--Java: Beginner  
+-PHP: Basics  
 
 ### Frameworks
 Express.JS  
@@ -24,4 +21,4 @@ Express.JS
 
 ### Projects  
 
--VirtualGuard.io C# web based obfuscation SaaS.
+-VirtualGuard.io C# web based obfuscation SaaS
