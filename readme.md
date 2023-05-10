@@ -22,6 +22,6 @@ Express.JS
 
 -Linux(Ubuntu): Intermediate (over two years experience of hosting websites (NodeJS) and databases(MySQL))  
 
-### Hardware  
+### Projects  
 
--Strong understanding on computer hardware and software.
+-VirtualGuard.io C# web based obfuscation SaaS.
