@@ -21,4 +21,4 @@ Express.JS
 
 ### Projects  
 
--VirtualGuard.io C# web based obfuscation SaaS
+-VirtualGuard.io C# web based code obfuscation SaaS
