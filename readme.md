@@ -17,8 +17,8 @@ Express.JS
 
 -Windows(10): Very experienced  
 
--Linux(Ubuntu): Intermediate (over two years experience of hosting websites (NodeJS) and databases(MySQL))  
+-Linux(Ubuntu): Intermediate (over three years experience of hosting websites (NodeJS) and databases(MySQL))  
 
 ### Projects  
 
-[VirtualGuard.io](https://github.com/mitoiscool/VirtualGuard) - Website frontend and backend, interaction via the C# engine using NodeJS. (Open Source) 
+[VirtualGuard.io](https://github.com/mitoiscool/VirtualGuard) - Website frontend and backend (Linux, NodeJS, MySql). Implementation of the .NET VirtualGuard engine using NodeJS. (Open Source) 
