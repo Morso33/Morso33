@@ -21,4 +21,4 @@ Express.JS
 
 ### Projects  
 
-(Open Sourced) [VirtualGuard.io](https://github.com/mitoiscool/VirtualGuard) - Website frontend and backend, interaction via the C# engine using NodeJS.
+[VirtualGuard.io](https://github.com/mitoiscool/VirtualGuard) - Website frontend and backend, interaction via the C# engine using NodeJS. (Open Source) 
