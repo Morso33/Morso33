@@ -2,8 +2,7 @@
 
 -JavaScript (NodeJS, vanilla): Fluent  
 
--C++: Intermediate  
--C: Intermediate  
+-C/C++: Intermediate  
 -C#: Intermediate  
 -Python: Intermediate  
 -SQL(MySQL): Intermediate  
