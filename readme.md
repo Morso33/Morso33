@@ -1,3 +1,7 @@
+### General Information
+
+I am a developer and reverse-engineer with strong experience in programming, reverse engineering, and cybersecurity. My background spans multiple programming languages, system-level analysis, and network-based security research. I have hands-on expertise in malware analysis, emulation, and network traffic inspection, with a focus on identifying vulnerabilities, understanding adversarial techniques, and building secure applications and backend systems.
+
 ### Languages  
 
 -JavaScript (NodeJS, vanilla): Fluent  
