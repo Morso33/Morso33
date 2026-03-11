@@ -19,7 +19,7 @@ Unity
 
 ### Operating Systems  
 
--Windows(10): Very experienced  
+-Windows(10 & 11): Fluent 
 
 -Linux(Ubuntu): Intermediate (over three years experience of hosting websites (NodeJS) and databases(MySQL))  
 
