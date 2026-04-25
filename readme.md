@@ -12,7 +12,7 @@ I am a developer and reverse-engineer with strong experience in programming, rev
 -SQL(MySQL): Intermediate  
 
 -Java: Basics/Intermediate
--PHP: Basics  
+-PHP: Basics
 
 ### Frameworks
 Express.JS  
