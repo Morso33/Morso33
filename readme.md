@@ -11,6 +11,7 @@ I am a developer and reverse-engineer with strong experience in programming, rev
 -Python: Intermediate  
 -SQL(MySQL): Intermediate  
 
+-Java: Basics/Intermediate
 -PHP: Basics  
 
 ### Frameworks
@@ -21,7 +22,7 @@ Unity
 
 -Windows(10 & 11): Fluent 
 
--Linux(Ubuntu): Intermediate (over three years experience of hosting websites (NodeJS) and databases(MySQL))  
+-Linux(Ubuntu): Intermediate (over four years experience of hosting websites (NodeJS) and databases(MySQL)) along with Python applications.
 
 ### Projects  
 
