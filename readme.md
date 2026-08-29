@@ -16,11 +16,11 @@ I have a strong and consistent interest in programming, and have multiple side p
 -SQL (MySQL, MariaDB): Intermediate  
 -Java: Intermediate  
 
-### Spoken Languages
--Finnish (Fluent)
--Swedish (Fluent)
--English (Fluent)
--Russian (Started learning in 2026)
+### Spoken Languages  
+-Finnish (Fluent)  
+-Swedish (Fluent)  
+-English (Fluent)  
+-Russian (Started learning in 2026)  
 
 ### Frameworks
 Express.JS  
