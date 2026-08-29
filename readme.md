@@ -23,8 +23,8 @@ I have a strong and consistent interest in programming, and have multiple side p
 -Russian (Started learning in 2026)  
 
 ### Frameworks
-Express.JS  
-Unity
+-Express.JS  
+-Unity
 
 ### Operating Systems  
 
