@@ -34,10 +34,11 @@ I have a strong and consistent interest in programming, and have multiple side p
 
 ### Use of AI
 
-I use AI to speed up development in some settings. I have a strong focus on writing coherent instructions to the AI, and verifying the output is always on par with my own code standards. I have experience with the following AI technologies when programming:
--OpenAI API
--Claude Code
--Github Copilot
+I use AI to speed up development in some settings. I have a strong focus on writing coherent instructions to the AI, and verifying the output is always on par with my own code standards. I have experience with the following AI technologies when programming:  
+-OpenAI API  
+-Claude Code  
+-Github Copilot  
+
 ### Projects  
 
 VirtualGuard.io [Github](https://github.com/mitoiscool/VirtualGuard), [Archived Website](https://web.archive.org/web/20240329054140/https://virtualguard.io/) - Website frontend and backend (Linux, NodeJS, MySql). Implementation of the .NET VirtualGuard engine using NodeJS. (Open Source) 
