@@ -42,7 +42,8 @@ I use AI to speed up development in some settings. I have a strong focus on writ
 ### Projects  
 
 VirtualGuard.io [Github](https://github.com/mitoiscool/VirtualGuard), [Archived Website](https://web.archive.org/web/20240329054140/https://virtualguard.io/) - Website frontend and backend (Linux, NodeJS, MySql). Implementation of the .NET VirtualGuard engine using NodeJS. (Open Source)  
-DrinkUp.buzz [Link](https://drinkup.buzz) Social party game to be played across multiple devices, using websockets for realtime communication. (closed source, non-commercial)
+DrinkUp.buzz [Link](https://drinkup.buzz)  
+Social party game to be played across multiple devices, using websockets for realtime communication. (closed source, non-commercial)
 
 ### Contact  
 You can contact me on Discord: @og_smith or Telegram @ogsmith33
